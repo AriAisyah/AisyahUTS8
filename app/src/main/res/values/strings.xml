@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTSAisyah8</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UTS Aisyah 8</string>
+    <string name="nav_header_subtitle">Skincare | Bodycare | Makeup</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_1">Skincare</string>
+    <string name="menu_2">Bodycare</string>
+    <string name="menu_3">Makeup</string>
+    <string name="menu_profile">Profile</string>
+</resources>
